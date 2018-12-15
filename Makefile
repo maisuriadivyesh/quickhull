@@ -1,5 +1,5 @@
 all:
-	gcc quickHull.c -o quickHull
+	gcc quickHull.c -o submission
 
 clean:
-	rm -rf quickHull quickHull.o
+	rm -rf submission quickHull.o
